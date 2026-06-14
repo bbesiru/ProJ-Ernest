@@ -1,0 +1,10 @@
+azure-cloud-foundation-project/
+│
+├── README.md
+├── report.pdf
+│
+├── screenshots/
+│   ├── subscription.png
+│   ├── resource-group.png
+│   ├── storage-account.png
+│   └── cost-management.png
