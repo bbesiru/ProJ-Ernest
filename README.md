@@ -73,17 +73,17 @@ Open Cost Management + Billing.
 Select Budgets.
 Click Add Budget.
 Enter a budget name.
-Set an amount (for example, $10).
+Set an amount (for example, $4).
 Select Monthly recurrence.
 Configure alert thresholds.
-Creating a 75% Cost Alert
+Creating a 50% Cost Alert
 
 Example:
 
-Budget Amount: $10
-Alert Threshold: 75%
+Budget Amount: $4
+Alert Threshold: 50%
 
-Azure automatically sends a notification when usage reaches 75% of the configured budget.
+Azure automatically sends a notification when usage reaches 50% of the configured budget.
 
 Evidence
 
