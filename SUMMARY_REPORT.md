@@ -10,17 +10,17 @@ Date:
 
 Selected Azure Region
 
-Region Chosen: West Europe
+Region Chosen: Central India
 
 Reason for Selection:
 
-West Europe was selected because it is geographically close to my location, which helps reduce network latency and improve the performance of Azure services. Choosing a nearby region also provides a better user experience and more efficient communication between deployed resources.
+Central India was selected because it is cheaper to store data compare to other regions and it is also geographically close to my location, which helps reduce network latency and improve the performance of Azure services. Choosing a nearby region also provides a better user experience and more efficient communication between deployed resources.
 
 Deployed Resource
 
 Resource Type: Storage Account
 
-A Storage Account was deployed within the Resource Group DevOps-Lab-RG. The deployment was completed successfully and demonstrated the Azure resource provisioning and management process.
+A Storage Account was deployed within the Resource Group 3mttTraining. The deployment was completed successfully and demonstrated the Azure resource provisioning and management process.
 
 Shared Responsibility Model
 
