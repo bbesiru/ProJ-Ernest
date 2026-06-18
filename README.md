@@ -40,9 +40,9 @@ Step 3: Resource Group Creation
 
 A Resource Group was created to logically organize Azure resources.
 
-Resource Group Name: DevOps-Lab-RG
+Resource Group Name: 3mttTraining
 
-Region: West Europe
+Region: central India
 
 Evidence
 
@@ -76,14 +76,14 @@ Enter a budget name.
 Set an amount (for example, $4).
 Select Monthly recurrence.
 Configure alert thresholds.
-Creating a 50% Cost Alert
+Creating a 64% Cost Alert
 
 Example:
 
 Budget Amount: $4
-Alert Threshold: 50%
+Alert Threshold: 64%
 
-Azure automatically sends a notification when usage reaches 50% of the configured budget.
+Azure automatically sends a notification when usage reaches 64% of the configured budget.
 
 Evidence
 
