@@ -147,7 +147,7 @@ This alert ensures that notifications are sent before the budget limit is reache
 
 * Budget Amount: $4
 * Alert Threshold: 64%
-* Notification Trigger: $3 Usage
+* Notification Trigger: $2.5 Usage
 
 ### Evidence
 
